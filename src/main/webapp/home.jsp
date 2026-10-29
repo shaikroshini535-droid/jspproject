@@ -15,8 +15,7 @@
     <link rel="stylesheet" href="${pageContext.request.contextPath}/style.css">
 </head>
 <body>
-
-    <nav class="navbar">
+<nav class="navbar">
         <a href="#home" class="logo">My Portfolio</a>
         <div class="nav-links">
             <a href="#home">Home</a>
